@@ -38,8 +38,3 @@ npm install
 npm run start
 ```
 
-## A Preview of what is should look like
-
-<div>
-<img src="frontend/public/images/dashboard.png" alt="dashboard">
-</div>
