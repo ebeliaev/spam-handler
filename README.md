@@ -32,9 +32,8 @@ npm install
 ```
 
 ### Run
-
+# Run frontend (:3000) & backend (:8000) from root directory :
 ```
-# Run frontend Application (:3000) & Microservices (:5000), from root directory 
 npm run start
 ```
 
