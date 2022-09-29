@@ -9,7 +9,7 @@
 Clone this Repositorie to your local machine
 
 ```
-git clone *** fill in ***
+git clone https://github.com/ebeliaev/spam-handler.git
 ```
 ### 1 - Install Dependencies in main folder
 
