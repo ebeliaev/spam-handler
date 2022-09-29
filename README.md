@@ -1,4 +1,4 @@
-<img src="frontend/public/images/retail/dashboard.png" alt="dashboard" height="400">
+<img src="frontend/public/images/dashboard.png" alt="dashboard" height="400">
 
 # Usage
 
@@ -41,5 +41,5 @@ npm run start
 ## A Preview of what is should look like
 
 <div>
-<img src="frontend/public/images/retail/dashboard.png" alt="dashboard" height="230">
+<img src="frontend/public/images/dashboard.png" alt="dashboard" height="230">
 </div>
