@@ -38,3 +38,10 @@ npm install
 npm run start
 ```
 
+### To retrieve all reports data
+
+```
+# Make API call to :
+localhost:8000/newReport
+```
+
